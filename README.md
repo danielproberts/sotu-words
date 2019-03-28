@@ -9,11 +9,11 @@ The purpose of this project is to analyze word usage in Presidential State of th
 
 ## Included Libraries / Dependencies
 
-matplotlib.pyplot (as plt) - Version 2.2.2
-pandas (as pd)  - Version 0.23.0
-sqlite3
-os
-re - Version 2.2.1
+* matplotlib.pyplot (as plt) - Version 2.2.2
+* pandas (as pd)  - Version 0.23.0
+* sqlite3
+* os
+* re - Version 2.2.1
 
 
 ## Instructions
